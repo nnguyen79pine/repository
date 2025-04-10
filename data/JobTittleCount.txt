@@ -1,0 +1,524 @@
+"Accountant	663
+"Administrator	1006
+"Biochemist	166
+"Buyer	356
+"Chemist	153
+"Civil engineer	330
+"Clinical scientist	162
+"Conservation officer	288
+"Conservator	320
+"Copywriter	151
+"Designer	1892
+"Development worker	297
+"Doctor	335
+"Editor	466
+"Education officer	481
+"Embryologist	159
+"Engineer	4372
+"Exhibitions officer	151
+"Geneticist	157
+"Geologist	336
+"Horticulturist	324
+"Investment banker	297
+"Journalist	466
+"Lecturer	340
+"Librarian	306
+"Lighting technician	158
+"Loss adjuster	153
+"Merchandiser	165
+"Nurse	608
+"Optician	141
+"Pharmacist	297
+"Physicist	152
+"Pilot	165
+"Presenter	143
+"Producer	334
+"Production assistant	317
+"Production designer	159
+"Programme researcher	148
+"Programmer	495
+"Psychologist	1094
+"Psychotherapist	343
+"Radiographer	322
+"Research officer	455
+"Restaurant manager	141
+"Runner	169
+"Sales professional	166
+"Scientist	1871
+"Secretary	151
+"Social research officer	134
+"Solicitor	186
+"Sound technician	147
+"Surveyor	1702
+"Teacher	1075
+"Therapist	1217
+Academic librarian	157
+Accommodation manager	151
+Accounting technician	161
+Actor	177
+Actuary	173
+Acupuncturist	139
+Administrator	146
+Adult guidance worker	168
+Adult nurse	138
+Advertising account executive	135
+Advertising account planner	165
+Advertising art director	140
+Advertising copywriter	148
+Advice worker	172
+Aeronautical engineer	132
+Agricultural consultant	162
+Agricultural engineer	143
+Aid worker	156
+Air broker	152
+Air cabin crew	146
+Air traffic controller	170
+Airline pilot	148
+Ambulance person	153
+Amenity horticulturist	147
+Analytical chemist	152
+Animal nutritionist	157
+Animal technologist	150
+Animator	141
+Applications developer	166
+Arboriculturist	138
+Archaeologist	135
+Architect	159
+Architectural technologist	127
+Archivist	140
+Armed forces logistics/support/administrative officer	157
+Armed forces operational officer	160
+Armed forces technical officer	164
+Armed forces training and education officer	137
+Art gallery manager	164
+Art therapist	170
+Artist	168
+Arts administrator	136
+Arts development officer	155
+Associate Professor	156
+Astronomer	178
+Audiological scientist	160
+Automotive engineer	174
+Banker	155
+Barista	155
+Barrister	150
+Barrister's clerk	189
+Best boy	154
+Biomedical engineer	151
+Biomedical scientist	163
+Bonds trader	145
+Bookseller	125
+Brewing technologist	152
+Broadcast engineer	152
+Broadcast journalist	159
+Broadcast presenter	151
+Building control surveyor	166
+Building services engineer	169
+Building surveyor	155
+Cabin crew	158
+Call centre manager	155
+Camera operator	161
+Careers adviser	147
+Careers information officer	126
+Cartographer	149
+Catering manager	148
+Ceramics designer	170
+Charity fundraiser	146
+Charity officer	158
+Chartered accountant	144
+Chartered certified accountant	161
+Chartered legal executive (England and Wales)	162
+Chartered loss adjuster	166
+Chartered management accountant	153
+Chartered public finance accountant	167
+Chemical engineer	139
+Chief Executive Officer	160
+Chief Financial Officer	151
+Chief Marketing Officer	179
+Chief Operating Officer	145
+Chief Strategy Officer	147
+Chief Technology Officer	162
+Chief of Staff	150
+Child psychotherapist	143
+Chiropodist	162
+Chiropractor	169
+Civil Service administrator	147
+Civil Service fast streamer	160
+Claims inspector/assessor	166
+Clinical biochemist	128
+Clinical cytogeneticist	166
+Clinical embryologist	170
+Clinical molecular geneticist	171
+Clinical psychologist	164
+Clinical research associate	154
+Clothing/textile technologist	171
+Colour technologist	168
+Commercial art gallery manager	134
+Commercial horticulturist	154
+Commercial/residential surveyor	162
+Commissioning editor	134
+Communications engineer	171
+Community arts worker	134
+Community development worker	134
+Community education officer	179
+Community pharmacist	166
+Company secretary	180
+Comptroller	156
+Computer games developer	150
+Conference centre manager	153
+Consulting civil engineer	152
+Contracting civil engineer	139
+Contractor	153
+Control and instrumentation engineer	145
+Copy	156
+Corporate investment banker	153
+Corporate treasurer	183
+Counselling psychologist	193
+Counsellor	157
+Curator	145
+Customer service manager	144
+Cytogeneticist	152
+Dance movement psychotherapist	153
+Dancer	159
+Data processing manager	160
+Data scientist	148
+Database administrator	149
+Dealer	152
+Dentist	166
+Diagnostic radiographer	165
+Dietitian	171
+Diplomatic Services operational officer	181
+Dispensing optician	141
+Dramatherapist	144
+Drilling engineer	172
+Early years teacher	144
+Ecologist	142
+Economist	145
+Editorial assistant	157
+Education administrator	155
+Educational psychologist	164
+Electrical engineer	131
+Electronics engineer	163
+Emergency planning/management officer	153
+Energy engineer	181
+Energy manager	170
+Engineering geologist	166
+English as a foreign language teacher	172
+English as a second language teacher	147
+Environmental consultant	143
+Environmental education officer	155
+Environmental health practitioner	172
+Environmental manager	190
+Equality and diversity officer	134
+Equities trader	180
+Ergonomist	149
+Estate agent	170
+Estate manager/land agent	155
+Event organiser	177
+Exercise physiologist	158
+Exhibition designer	172
+Facilities manager	137
+Farm manager	174
+Fashion designer	159
+Fast food restaurant manager	150
+Field seismologist	164
+Field trials officer	169
+Film/video editor	154
+Financial adviser	137
+Financial controller	150
+Financial manager	147
+Financial planner	180
+Financial risk analyst	157
+Financial trader	178
+Fine artist	167
+Firefighter	163
+Fish farm manager	143
+Fisheries officer	174
+Fitness centre manager	144
+Food technologist	145
+Forensic psychologist	133
+Forensic scientist	173
+Forest/woodland manager	168
+Freight forwarder	145
+Furniture conservator/restorer	166
+Furniture designer	150
+Further education lecturer	158
+Futures trader	156
+Gaffer	164
+Games developer	163
+Garment/textile technologist	163
+General practice doctor	164
+Geochemist	159
+Geographical information systems officer	153
+Geophysical data processor	143
+Geophysicist/field seismologist	142
+Geoscientist	166
+Glass blower/designer	153
+Government social research officer	170
+Graphic designer	128
+Haematologist	153
+Health and safety adviser	166
+Health and safety inspector	178
+Health physicist	133
+Health promotion specialist	171
+Health service manager	148
+Health visitor	167
+Herbalist	144
+Heritage manager	158
+Herpetologist	155
+Higher education careers adviser	169
+Higher education lecturer	128
+Historic buildings inspector/conservation officer	151
+Holiday representative	150
+Homeopath	171
+Horticultural consultant	167
+Horticultural therapist	139
+Hospital doctor	152
+Hospital pharmacist	151
+Hotel manager	163
+Housing manager/officer	149
+Human resources officer	174
+Hydrogeologist	159
+Hydrographic surveyor	171
+Hydrologist	154
+IT consultant	152
+IT sales professional	154
+IT technical support officer	159
+IT trainer	156
+Illustrator	131
+Immigration officer	176
+Immunologist	158
+Industrial buyer	184
+Industrial/product designer	173
+Information officer	147
+Information systems manager	160
+Insurance account manager	167
+Insurance broker	162
+Insurance claims handler	166
+Insurance risk surveyor	165
+Insurance underwriter	158
+Intelligence analyst	157
+Interior and spatial designer	128
+International aid/development worker	135
+Interpreter	152
+Investment analyst	180
+Jewellery designer	150
+Land	162
+Land/geomatics surveyor	146
+Landscape architect	155
+Lawyer	163
+Learning disability nurse	152
+Learning mentor	150
+Legal executive	173
+Legal secretary	152
+Leisure centre manager	161
+Lexicographer	134
+Licensed conveyancer	147
+Lobbyist	141
+Local government officer	164
+Location manager	142
+Logistics and distribution manager	158
+Magazine features editor	175
+Magazine journalist	154
+Maintenance engineer	158
+Make	153
+Management consultant	155
+Manufacturing engineer	164
+Manufacturing systems engineer	155
+Marine scientist	159
+Market researcher	169
+Marketing executive	179
+Materials engineer	163
+Mechanical engineer	159
+Media buyer	168
+Media planner	148
+Medical illustrator	139
+Medical laboratory scientific officer	161
+Medical physicist	177
+Medical sales representative	157
+Medical secretary	135
+Medical technical officer	136
+Mental health nurse	151
+Merchant navy officer	178
+Metallurgist	168
+Meteorologist	145
+Microbiologist	173
+Midwife	153
+Minerals surveyor	173
+Mining engineer	166
+Mudlogger	131
+Multimedia programmer	143
+Multimedia specialist	145
+Museum education officer	163
+Museum/gallery conservator	144
+Museum/gallery curator	160
+Museum/gallery exhibitions officer	170
+Music therapist	165
+Music tutor	155
+Musician	176
+Nature conservation officer	144
+Naval architect	166
+Network engineer	161
+Neurosurgeon	183
+Newspaper journalist	136
+Nutritional therapist	165
+Occupational hygienist	175
+Occupational psychologist	153
+Occupational therapist	163
+Oceanographer	154
+Office manager	149
+Oncologist	167
+Operational investment banker	149
+Operational researcher	156
+Operations geologist	154
+Ophthalmologist	144
+Optometrist	166
+Orthoptist	143
+Osteopath	167
+Outdoor activities/education manager	147
+Paediatric nurse	171
+Paramedic	174
+Passenger transport manager	134
+Patent attorney	150
+Patent examiner	153
+Pathologist	151
+Pension scheme manager	128
+Pensions consultant	150
+Personal assistant	155
+Personnel officer	161
+Petroleum engineer	154
+Pharmacologist	170
+Photographer	149
+Physiological scientist	142
+Physiotherapist	135
+Phytotherapist	161
+Planning and development surveyor	155
+Plant breeder/geneticist	170
+Podiatrist	144
+Police officer	182
+Politician's assistant	157
+Press photographer	186
+Press sub	160
+Primary school teacher	139
+Print production planner	127
+Printmaker	163
+Prison officer	160
+Private music teacher	150
+Probation officer	154
+Product designer	158
+Product manager	157
+Product/process development scientist	181
+Production engineer	175
+Production manager	154
+Professor Emeritus	159
+Proofreader	173
+Psychiatric nurse	145
+Psychiatrist	162
+Psychotherapist	153
+Public affairs consultant	162
+Public house manager	153
+Public librarian	137
+Public relations account executive	157
+Public relations officer	160
+Publishing copy	154
+Publishing rights manager	144
+Purchasing manager	138
+Quality manager	161
+Quantity surveyor	170
+Quarry manager	144
+Race relations officer	175
+Radiation protection practitioner	138
+Radio broadcast assistant	136
+Radio producer	176
+Ranger/warden	166
+Records manager	167
+Recruitment consultant	139
+Recycling officer	148
+Regulatory affairs officer	176
+Research scientist (life sciences)	146
+Research scientist (maths)	146
+Research scientist (medical)	148
+Research scientist (physical sciences)	151
+Restaurant manager	154
+Retail banker	157
+Retail buyer	156
+Retail manager	147
+Retail merchandiser	158
+Risk analyst	154
+Risk manager	151
+Rural practice surveyor	149
+Sales executive	147
+Sales promotion account executive	154
+Science writer	152
+Scientific laboratory technician	167
+Secondary school teacher	146
+Secretary/administrator	162
+Seismic interpreter	161
+Senior tax professional/tax inspector	156
+Set designer	168
+Ship broker	148
+Site engineer	172
+Social researcher	162
+Social worker	150
+Software engineer	130
+Soil scientist	159
+Solicitor	150
+Special educational needs teacher	137
+Special effects artist	147
+Speech and language therapist	158
+Sport and exercise psychologist	166
+Sports administrator	155
+Sports coach	153
+Sports development officer	168
+Sports therapist	190
+Stage manager	147
+Statistician	158
+Structural engineer	157
+Sub	178
+Surgeon	152
+Systems analyst	163
+Systems developer	146
+TEFL teacher	152
+Tax adviser	170
+Tax inspector	139
+Teaching laboratory technician	154
+Technical author	149
+Technical brewer	174
+Technical sales engineer	147
+Telecommunications researcher	150
+Television camera operator	167
+Television floor manager	159
+Television production assistant	159
+Television/film/video producer	155
+Textile designer	164
+Theatre director	155
+Theatre manager	155
+Theatre stage manager	147
+Theme park manager	170
+Therapeutic radiographer	154
+Tour manager	142
+Tourism officer	178
+Tourist information centre manager	147
+Town planner	132
+Toxicologist	153
+Trade mark attorney	146
+Trade union research officer	156
+Trading standards officer	135
+Training and development officer	170
+Translator	141
+Transport planner	147
+Travel agency manager	153
+Tree surgeon	148
+Veterinary surgeon	164
+Video editor	131
+Visual merchandiser	156
+Volunteer coordinator	163
+Warden/ranger	139
+Warehouse manager	165
+Waste management officer	149
+Water engineer	164
+Water quality scientist	142
+Web designer	175
+Wellsite geologist	176
+Writer	177
+Youth worker	163
